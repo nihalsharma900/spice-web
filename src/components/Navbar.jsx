@@ -50,7 +50,7 @@ function Navbar() {
           <div className="flex flex-col px-6 py-4 space-y-3 text-gray-700 font-medium">
             <Link to="/" onClick={() => setOpen(false)} className="py-2 hover:text-red-600 transition">Home</Link>
             <Link to="/about" onClick={() => setOpen(false)} className="py-2 hover:text-red-600 transition">About</Link>
-            <Link to="/products" onClick={() => setOpen(false)} className="py-2 hover:text-red-600 transition">Products</Link>
+            <Link to="/products" onClick={() => setOpen(false)} className="py-2 hover:text-red-600 transition">Productssssssss</Link>
             <Link to="/contact" onClick={() => setOpen(false)} className="py-2 hover:text-red-600 transition">Contact</Link>
           </div>
         </div>
